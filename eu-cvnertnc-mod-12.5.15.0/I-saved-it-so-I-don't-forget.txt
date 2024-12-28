@@ -1,7 +1,4 @@
-/mnt/media_rw/F02EBDD32EBD92D8/Herşey/rom/eufull/eu-mod-system-cvnertnc
-/mnt/media_rw/F02EBDD32EBD92D8/Herşey/mod/eu-mod-system-cvnertnc
-
-Kaldırılan dosyalar:
+Deleted Files:
 ==============================
 data-app/Spectrum/
 data-app/Spectrum/Spectrum.apk
