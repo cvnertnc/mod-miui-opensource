@@ -1,0 +1,19 @@
+/mnt/media_rw/F02EBDD32EBD92D8/Herşey/rom/eufull/eu-mod-system-cvnertnc
+/mnt/media_rw/F02EBDD32EBD92D8/Herşey/mod/eu-mod-system-cvnertnc
+
+Kaldırılan dosyalar:
+==============================
+data-app/Spectrum/
+data-app/Spectrum/Spectrum.apk
+data-app/v4afx/
+data-app/v4afx/v4afx.apk
+etc/audio_effects.conf
+etc/ds1-default.xml
+etc/permissions/android.dolby.xml
+etc/permissions/privapp-permissions-platform.xml
+etc/sysconfig/hiddenapi-package-whitelist.xml
+etc/sysconfig/miui_whitelist.xml
+priv-app/Ds/
+priv-app/Ds/Ds.apk
+priv-app/DsUI/
+priv-app/DsUI/DsUI.apk
